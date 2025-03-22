@@ -84,4 +84,5 @@ Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ đ
 
 Hoàn tất
 
-    ![Poster](https://github.com/user-attachments/assets/ac82ed4a-1c0d-499d-9cbb-6c5c433d948f)
+
+![Posterdemo](https://github.com/user-attachments/assets/0e5e5b64-cd69-41b9-997c-dd940b6b64e9)
