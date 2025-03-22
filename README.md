@@ -83,4 +83,5 @@ python3 odoo-bin.py -c odoo.conf -u all
 Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ để đăng nhập vào hệ thống.
 
 Hoàn tất
-    
+
+    ![Poster](https://github.com/user-attachments/assets/ac82ed4a-1c0d-499d-9cbb-6c5c433d948f)
